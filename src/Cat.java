@@ -14,8 +14,8 @@ public class Cat {
 	private static final int EYE_HEIGHT = 100;
 	private static final int EYE_WIDTH = 20;
 	// pick mouth height, width is based on head dimension
-	private static final int MOUTH_HEIGHT = 1;
-	private static final int MOUTH_WIDTH = HEAD_DIMENSION/4;
+	private static final int MOUTH_HEIGHT = 100;
+	private static final int MOUTH_WIDTH = HEAD_DIMENSION/8;
 	// mouth starts about 40% from left edge of head
 	private static final int MOUTH_X = HEAD_DIMENSION/5 * 2;
 	private static final int MOUTH_Y = HEAD_DIMENSION/5 * 3;
